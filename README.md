@@ -6,54 +6,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=C99BFF&center=true&vCenter=true&width=520&lines=hi%2C+thanks+for+visiting+my+profile+%E2%99%A1;dream+big+%E2%9C%A6+keep+going" alt="hi, thanks for visiting my profile" />
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:17112B,50:35205C,100:17112B&height=2&section=header" width="100%" />
+✦ ⋆｡˚ ☾ ˚｡⋆ ✦
 
 </div>
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<div align="center">
-
-### ♡ Macky
-
-Mackycky · she/her
-
-✦ CABA, Argentina
-
-<br />
-
-*currently learning*
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="190" alt="HTML, CSS and JavaScript" />
-
-<br /><br />
-
-good things take time ♡
-
-<br />
-
-✧ ⋆｡˚ ☾ ˚｡⋆ ✧
-
-</div>
-
-</td>
-<td width="72%" valign="top">
 
 ## ✦ 01 // about me
 
-I'm an aspiring developer interested in technology, web development and design.
+<div align="center">
+
+I'm Macky — an aspiring developer interested in technology, web development and design.
 
 I enjoy learning new skills, exploring creative ideas and building digital experiences.
 
-<div align="center">
-
 dream big · keep going ♡
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="125" alt="Cute cat sticker" />
 
 </div>
 
@@ -114,20 +81,14 @@ A Pinterest-inspired visual gallery exploring pink aesthetics and styles.
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:17112B,50:35205C,100:17112B&height=2&section=footer" width="100%" />
-
-<br />
+✧ ⋆｡˚ ☾ ˚｡⋆ ✧
 
 thanks for visiting my profile ♡
 
-✦ small steps, big dreams ✦
+*small steps, big dreams*
 
-</div>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Cat decoration" />
 
 </div>
