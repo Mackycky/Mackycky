@@ -1,106 +1,133 @@
 <div align="center">
 
-<img src="./macky-banner.jpg" width="100%" alt="Macky — cyberpunk night city banner">
+<img src="./macky-banner.jpg" alt="Macky — nocturnal cyberpunk city banner" width="100%" />
 
-<br>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Macky+%E2%9C%A6;Aspiring+developer;Building+things+one+line+at+a+time." alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=C99BFF&center=true&vCenter=true&width=520&lines=hi%2C+thanks+for+visiting+my+profile+%E2%99%A1;dream+big+%E2%9C%A6+keep+going" alt="hi, thanks for visiting my profile" />
 
-<code>aspiring developer</code> &nbsp; <code>creative mind</code> &nbsp; <code>always learning</code>
+<br />
 
-</div>
-
----
-
-### 01 // about_me
-
-text
-> Hello, world!
-> I'm an aspiring developer interested in technology, web development and design.
-> I enjoy learning new skills, exploring ideas and building digital experiences.
-
-
-- currently — learning web development
-- interests — web design, UI/UX, music and languages
-- mindset — curious, creative and always learning
-
-<br>
-
-### 02 // tech_stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="58" alt="HTML, CSS and JavaScript">
-
-<br><br>
-
-<sub><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:17112B,50:35205C,100:17112B&height=2&section=header" width="100%" />
 
 </div>
-
-<br>
-
-### 03 // selected_projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="28%" valign="top">
 
-<sub><b>FEATURED PROJECT // 001</b> &nbsp; <code>STATUS: SELECTED</code></sub>
+<div align="center">
 
-<h3>◈ SONORA</h3>
+### ♡ Macky
 
-A creative music experience focused on music discovery and interaction.
+Mackycky · she/her
 
-<code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code>
+✦ CABA, Argentina
 
-<br><br>
+<br />
 
-<a href="https://github.com/Mackycky/SONORA">[ OPEN REPOSITORY ↗️ ]</a>
+*currently learning*
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="190" alt="HTML, CSS and JavaScript" />
+
+<br /><br />
+
+good things take time ♡
+
+<br />
+
+✧ ⋆｡˚ ☾ ˚｡⋆ ✧
+
+</div>
 
 </td>
-</tr>
+<td width="72%" valign="top">
+
+## ✦ 01 // about me
+
+I'm an aspiring developer interested in technology, web development and design.
+
+I enjoy learning new skills, exploring creative ideas and building digital experiences.
+
+<div align="center">
+
+dream big · keep going ♡
+
+</div>
+
+## ✦ 02 // technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
+
+<br />
+
+<sub>✧ currently learning and exploring ✧</sub>
+
+</div>
+
+## ✦ 03 // selected projects
+
+<table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-<sub><b>PROJECT // 002</b> &nbsp; <code>STATUS: COMPLETED</code></sub>
+<div align="center">
 
-<h3>◈ PINKterest</h3>
+### ♫ 01. SONORA
 
-A Pinterest-inspired visual gallery exploring different pink aesthetics and styles.
+*✦ Featured project*
 
-<code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code>
+A creative music project focused on exploring music discovery and interaction.
 
-<br><br>
+<a href="https://github.com/Mackycky/SONORA">↗️ Explore repository</a>
 
-<a href="https://github.com/Mackycky/PINKTEREST">[ OPEN REPOSITORY ↗️ ]</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ♡ 02. PINKterest
+
+A Pinterest-inspired visual gallery exploring pink aesthetics and styles.
+
+<a href="https://github.com/Mackycky/PINKTEREST">↗️ Explore repository</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-### 04 // github_stats
+## ✦ 04 // github stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mackycky&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7AA2F7" alt="Macky's GitHub statistics">
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Mackycky&show_icons=true&hide_border=true&bg_color=17112B&title_color=C99BFF&text_color=E8DDF7&icon_color=BA8BFF&ring_color=BA8BFF" alt="Macky's GitHub statistics" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackycky&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Macky's most used languages">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackycky&layout=compact&hide_border=true&bg_color=17112B&title_color=C99BFF&text_color=E8DDF7" alt="Macky's most used languages" />
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<sub><code>CONNECTION ESTABLISHED</code></sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:17112B,50:35205C,100:17112B&height=2&section=footer" width="100%" />
 
-<br>
+<br />
 
-*Thanks for visiting my profile.* ✦
+thanks for visiting my profile ♡
 
-<sub>made with curiosity // Macky</sub>
+✦ small steps, big dreams ✦
+
+</div>
 
 </div>
