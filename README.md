@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./macky-banner.png" alt="Macky — nocturnal cyberpunk city banner" width="100%" />
+<img src="./macky-banner.jpg" alt="Macky — nocturnal cyberpunk city banner" width="100%" />
 
 <br />
 
@@ -89,6 +89,6 @@ thanks for visiting my profile ♡
 
 *small steps, big dreams*
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Cat decoration" />
+<img src="" width="100" alt="Cat decoration" />
 
 </div>
