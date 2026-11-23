@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=C99BFF&center=true&vCenter=true&width=520&lines=hi%2C+thanks+for+visiting+my+profile+%E2%99%A1;dream+big+%E2%9C%A6+keep+going" alt="hi, thanks for visiting my profile" />
+<img src="https://giffiles.alphacoders.com/916/91628.gif" alt="hi, thanks for visiting my profile" />
 
 ✦ ⋆｡˚ ☾ ˚｡⋆ ✦
 
