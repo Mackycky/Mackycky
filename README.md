@@ -20,7 +20,7 @@ I enjoy learning new skills, exploring creative ideas and building digital exper
 
 dream big · keep going ♡
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="125" alt="Cute cat sticker" />
+<img src="[https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif](https://giffiles.alphacoders.com/916/91628.gif)" width="125" alt="Cute cat sticker" />
 
 </div>
 
