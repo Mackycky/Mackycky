@@ -1,3 +1,5 @@
+<img src="/macky-banner.jpg" width="100%" alt="Macky — cyberpunk night city banner">
+
 **aspiring developer**
 
 *Exploring technology, design and creative ideas.*
